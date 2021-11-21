@@ -1,0 +1,1 @@
+# Detailed-Guide-to-the-Bar-Chart-in-R-with-ggplot
